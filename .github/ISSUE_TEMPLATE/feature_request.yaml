@@ -1,4 +1,4 @@
-name: Feature Request Name
+name: Feature Request
 description: Suggest a new Feature for the project!
 title: "[Feature Request]: "
 labels: ["enhancement", "triage"]
